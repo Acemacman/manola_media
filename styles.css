@@ -107,7 +107,7 @@ small{
     animation-delay: 6.5s;
     width: 35px;
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 700px){
   h1{
     font-size: 36px;
     line-height: 50px;
@@ -126,6 +126,6 @@ small{
         margin-top:50px;
     }
     .content{
-    top: 300px;
-   
+    top: 50%;
+    }
 }
