@@ -120,5 +120,12 @@ small{
     }
     .hero{
         background-image: url(images/goldfish_small.png);
+      
     }
+    .navbar{
+        margin-top:50px;
+    }
+    .content{
+    top: 300px;
+   
 }
